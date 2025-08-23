@@ -1,0 +1,13 @@
+import json
+
+location = {
+	    location:
+	   	{
+	   	 "id":"1",
+	   	 "name":"krk street"
+	   	 }
+	   	 {
+	   	 "id":"2",
+	   	 "name":"weset street"
+	   	 }
+	   }

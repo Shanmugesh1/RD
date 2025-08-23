@@ -1,0 +1,13 @@
+import json
+
+data = {
+	   "service":
+	   	{
+	   	 "id":"1",
+	   	 "name":"hotal"
+	   	 }
+	   	 {
+	   	 "id":"2",
+	   	 "name":"medical"
+	   	 }
+	   }
