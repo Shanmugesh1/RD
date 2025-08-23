@@ -1,0 +1,13 @@
+import json
+
+city = {
+	 city:
+	   	{
+	   	 "id":"1",
+	   	 "name":"ammapattai"
+	   	 }
+	   	 {
+	   	 "id":"2",
+	   	 "name":"orathanadu"
+	   	 }
+	   }
